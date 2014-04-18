@@ -28,7 +28,7 @@ However, vehicle firing arcs are different than in TW. Mainly, the front and tur
 
 Double Blind
 ============
-The Legends server uses the double blind and sensor rules; they can be found in TacOps. Read them carefully to make sure you understand two things: 1: Visibility is only checked before and after a move, never during.2: prone mechs can hide behind lvl 1 hills and buildings. This means that units can sneak up on the enemy while moving mostly in the 'open'.
+The Legends server uses the double blind and sensor rules; they can be found in TacOps. Read them carefully to make sure you understand two things: 1: Visibility is only checked before and after a move, never during. 2: prone mechs can hide behind lvl 1 hills and buildings. This means that units can sneak up on the enemy while moving mostly in the 'open'.
 
 It is vital to learn how to find and cover your blind spots, and also how to exploit the ones the enemy has.There are more detailed guides to double blind available, but this is the big important thing to understand: just because you can't see the enemy, doesn't mean they didn't move through hexes you can see.
 
@@ -46,7 +46,7 @@ Jumping into heavy woods now requires a PSR to avoid falling. This also affects 
 
 Enhanced AMS
 ============
-AMS can reduce the cluster hit number below '2' and thus completely destroy enemy missile salvoes.
+AMS can reduce the cluster hit number below '2' and thus completely destroy enemy missile salvoes. At present, however, Swarm and Swarm-I missiles reduced in this manner will continue on without reductions to the remaining salvo, as if the salvo missed the target completely.
 
 Floating critical hits
 ======================
